@@ -81,7 +81,7 @@ Being a Microsoft Senior Advocate and MVP, it will be nice to have him explain h
 - Majority of the users of the #30days of learning are android users. 
 
 ![](images/android.jpg)
-Therefore, they should be considered first in the choice of required softwares and applications for the learning process. As a matter of fact, the program as a whole has to be Android compatible. This is Nigeria! :smile: 
+Therefore, they should be considered first in the choice of required softwares and applications for the learning process. As a matter of fact, the program as a whole has to be Android compatible.  
 - People engage less on weekends which is expected because people tend to fix most of their extracurricular activities on weekends. Therefore, I recommend that urgent lectures and live events should not be fixed on weekends as it is most likely that majority would miss the event and that would not be encouraging.
 
 - There is a high probablity that majority of students enrolled for the data analytics track, evidenced by the mention of tools.

@@ -88,14 +88,9 @@ Therefore, they should be considered first in the choice of required softwares a
 ![](images/datrack.png)
 Excel and Power BI were mentioned the most and these are primary tools of data analytics. (that is the track I enrolled for as well :nerd_face:)
 - The #NG30DAYSOFLEARNING is more often used than the #30DAYSOFLEARNING hashtag.(well, I initially thought otherwise because of the length of the hashtag)
-- Being the convener of the learning program, I went ahead to filter for "@Oyinbooke";
-![](images/convener.png)
-words including 'data analytics', 'GitHub', 'Learning'.
-It is not surprising to have 'GitHub' as one of the most mentioned words because he constantly encourages students to upload projects no matter how small.
+
 ----------
-Note: 
-- There is a nice hover and press effect/style in the buttons on the home page. Interact [HERE](https://github.com/Data-Dr-hub/Twitter-Analysis-Project/blob/d118a91383e9040451c4416ed807497e4babd7f7/twitter%20Analysis.pbix)
-- The Home icon navigates to the home page.
+
 - The start button on the content analysis page directs to the Onboarding page of the learning program to get started with 30DAYSOFLEARNING.
 
 ![](images/pexels-towfiqu-barbhuiya-11341894.jpg)

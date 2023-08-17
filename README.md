@@ -19,7 +19,7 @@ The analysis will also include tools mentioned and Word Cloud associated to the 
 
 ## Data Sourcing
 Data was scrapped from twitter using Python, downloaded as excel file and then imported into Power BI for analysis.
-The code was executed using [Jupyter notebook](https://github.com/Data-Dr-hub/Twitter-Analysis-Project/blob/b24eb765f0c9fa7b85678116b11b8d3be4026e0a/30DLTweetsScrape.ipynb).
+
 
 ![](images/scrape.PNG)
 The scraped dataset contains 676 rows and 11 columns.
@@ -70,10 +70,9 @@ This page also depicts a table of Users by tweet which has been embedded with th
 ## Conclusion & Recommendations
 ![](images/30days.jpg)
 - The sharp increase in the rate and number of tweet from the first to the second month is very commendable. 
-My prediction is that the rate would increased more exponentially over this month of July provided that the methods and strategy of broadcast are kept constant or advanced further.
-- **Mr Oyinbooke** is pivotal to the broadcast and and engagement in this program. 
+My prediction is that the rate would increased more exponentially over this month of July provided that the methods and strategy of broadcast are kept constant or advanced further.. 
 
-![](images/oyinbooke2.png)
+
 
 This only shows how passionate he is about learning, teaching and education generally.
 Being a Microsoft Senior Advocate and MVP, it will be nice to have him explain how he multitasks and keep motivated.
@@ -94,7 +93,7 @@ words including 'data analytics', 'GitHub', 'Learning'.
 It is not surprising to have 'GitHub' as one of the most mentioned words because he constantly encourages students to upload projects no matter how small.
 ----------
 Note: 
-- There is a nice hover and press effect/style in the buttons on the home page. Interact [HERE](https://github.com/Data-Dr-hub/Twitter-Analysis-Project/blob/d118a91383e9040451c4416ed807497e4babd7f7/twitter%20Analysis.pbix)
+- 
 - The Home icon navigates to the home page.
 - The start button on the content analysis page directs to the Onboarding page of the learning program to get started with 30DAYSOFLEARNING.
 
